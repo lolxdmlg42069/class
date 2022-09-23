@@ -24,7 +24,7 @@ var ductTape = 3;
 var maskingTape = 2;
 var medicine = 5;
 var shoes = 10;
-var meal = (cereal + milk) + (hamburger * 2) + (lettuce + carrots + saladDressing + tunaFish);
+var meal = ((apples * 2) + bananas) + (hamburger * 2) + (lettuce + carrots);
 console.log('meal total is ' + meal);
 var myNeeds = busFare;
 var girlNeeds = medicine;
